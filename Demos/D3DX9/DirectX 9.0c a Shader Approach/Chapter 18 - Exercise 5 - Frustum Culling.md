@@ -2,3 +2,5 @@
 
 In §18.1.3 we explained a way to figure out if an AABB is behind a plane. Can you figure out a way to test whether a bounding sphere is behind a
 plane? Can you find a frustum/sphere intersection test?
+
+Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach by Frank D. Luna.
