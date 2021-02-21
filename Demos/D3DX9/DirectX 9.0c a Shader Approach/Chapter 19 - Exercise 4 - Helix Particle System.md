@@ -12,3 +12,5 @@ move down the z-axis, and t is time (i.e., the helix "grows" over time, or in ot
 curve as a function of time). To implement this, you may wish to add a D3DXVECTOR3 pointer to the derived particle system class, and set it to
 point to the moving point in the constructor. Thus, whenever the point moves, the particle system has a direct pointer to the updated point position
 where new particles should be emitted.
+
+Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach by Frank D. Luna.
