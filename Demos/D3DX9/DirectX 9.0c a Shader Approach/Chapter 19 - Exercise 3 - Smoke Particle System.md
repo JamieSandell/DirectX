@@ -2,3 +2,5 @@
 
 Implement the smoke system shown in Figure 19.3. The smoke texture can be obtained from the companion files. The smoke particle sizes should
 expand over time, and they should fade out gradually over time.
+
+Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach by Frank D. Luna.
