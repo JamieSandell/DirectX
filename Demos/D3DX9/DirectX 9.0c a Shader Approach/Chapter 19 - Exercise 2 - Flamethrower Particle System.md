@@ -3,3 +3,5 @@
 The techniques of the gun and ring of fire particle systems can be combined to implement a flamethrower (see Figure 19.12). The flames should
 expand in size over time and a small upward acceleration should be applied. You can use the same texture that was used for the ring of fire
 system.
+
+Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach by Frank D. Luna.
