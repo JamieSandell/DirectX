@@ -3,3 +3,5 @@
 Modify the Asteroids demo to use bounding spheres instead of boxes.
 
 Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach by Frank D. Luna.
+
+Introduction to 3D Game Programming with DirectX 9.0c: A Shader Approach by Frank D. Luna.
