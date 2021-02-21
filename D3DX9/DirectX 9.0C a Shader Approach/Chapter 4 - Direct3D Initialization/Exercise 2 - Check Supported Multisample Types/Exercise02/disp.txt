@@ -1,0 +1,64 @@
+Multisampling technique:	1 on format:	22 in windowed mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	2 on format:	22 in windowed mode available with quality levels:	0, 1.
+Multisampling technique:	3 on format:	22 in windowed mode not available.
+Multisampling technique:	4 on format:	22 in windowed mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	5 on format:	22 in windowed mode not available.
+Multisampling technique:	6 on format:	22 in windowed mode not available.
+Multisampling technique:	7 on format:	22 in windowed mode not available.
+Multisampling technique:	8 on format:	22 in windowed mode available with quality levels:	0, 1, 2, 3, 4.
+Multisampling technique:	9 on format:	22 in windowed mode not available.
+Multisampling technique:	10 on format:	22 in windowed mode not available.
+Multisampling technique:	11 on format:	22 in windowed mode not available.
+Multisampling technique:	12 on format:	22 in windowed mode not available.
+Multisampling technique:	13 on format:	22 in windowed mode not available.
+Multisampling technique:	14 on format:	22 in windowed mode not available.
+Multisampling technique:	15 on format:	22 in windowed mode not available.
+Multisampling technique:	16 on format:	22 in windowed mode not available.
+Multisampling technique:	1 on format:	22 in full-screen mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	2 on format:	22 in full-screen mode available with quality levels:	0, 1.
+Multisampling technique:	3 on format:	22 in full-screen mode not available.
+Multisampling technique:	4 on format:	22 in full-screen mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	5 on format:	22 in full-screen mode not available.
+Multisampling technique:	6 on format:	22 in full-screen mode not available.
+Multisampling technique:	7 on format:	22 in full-screen mode not available.
+Multisampling technique:	8 on format:	22 in full-screen mode available with quality levels:	0, 1, 2, 3, 4.
+Multisampling technique:	9 on format:	22 in full-screen mode not available.
+Multisampling technique:	10 on format:	22 in full-screen mode not available.
+Multisampling technique:	11 on format:	22 in full-screen mode not available.
+Multisampling technique:	12 on format:	22 in full-screen mode not available.
+Multisampling technique:	13 on format:	22 in full-screen mode not available.
+Multisampling technique:	14 on format:	22 in full-screen mode not available.
+Multisampling technique:	15 on format:	22 in full-screen mode not available.
+Multisampling technique:	16 on format:	22 in full-screen mode not available.
+Multisampling technique:	1 on format:	23 in windowed mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	2 on format:	23 in windowed mode available with quality levels:	0, 1.
+Multisampling technique:	3 on format:	23 in windowed mode not available.
+Multisampling technique:	4 on format:	23 in windowed mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	5 on format:	23 in windowed mode not available.
+Multisampling technique:	6 on format:	23 in windowed mode not available.
+Multisampling technique:	7 on format:	23 in windowed mode not available.
+Multisampling technique:	8 on format:	23 in windowed mode available with quality levels:	0, 1, 2, 3, 4.
+Multisampling technique:	9 on format:	23 in windowed mode not available.
+Multisampling technique:	10 on format:	23 in windowed mode not available.
+Multisampling technique:	11 on format:	23 in windowed mode not available.
+Multisampling technique:	12 on format:	23 in windowed mode not available.
+Multisampling technique:	13 on format:	23 in windowed mode not available.
+Multisampling technique:	14 on format:	23 in windowed mode not available.
+Multisampling technique:	15 on format:	23 in windowed mode not available.
+Multisampling technique:	16 on format:	23 in windowed mode not available.
+Multisampling technique:	1 on format:	23 in full-screen mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	2 on format:	23 in full-screen mode available with quality levels:	0, 1.
+Multisampling technique:	3 on format:	23 in full-screen mode not available.
+Multisampling technique:	4 on format:	23 in full-screen mode available with quality levels:	0, 1, 2, 3, 4, 5, 6, 7, 8.
+Multisampling technique:	5 on format:	23 in full-screen mode not available.
+Multisampling technique:	6 on format:	23 in full-screen mode not available.
+Multisampling technique:	7 on format:	23 in full-screen mode not available.
+Multisampling technique:	8 on format:	23 in full-screen mode available with quality levels:	0, 1, 2, 3, 4.
+Multisampling technique:	9 on format:	23 in full-screen mode not available.
+Multisampling technique:	10 on format:	23 in full-screen mode not available.
+Multisampling technique:	11 on format:	23 in full-screen mode not available.
+Multisampling technique:	12 on format:	23 in full-screen mode not available.
+Multisampling technique:	13 on format:	23 in full-screen mode not available.
+Multisampling technique:	14 on format:	23 in full-screen mode not available.
+Multisampling technique:	15 on format:	23 in full-screen mode not available.
+Multisampling technique:	16 on format:	23 in full-screen mode not available.

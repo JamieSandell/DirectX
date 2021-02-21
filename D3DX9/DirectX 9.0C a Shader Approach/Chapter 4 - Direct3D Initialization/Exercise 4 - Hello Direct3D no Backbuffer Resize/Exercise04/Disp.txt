@@ -1,0 +1,11 @@
+D3DPRESENT_INTERVAL_IMMEDIATE supported.
+D3DPTADDRESSCAPS_CLAMP supported.
+D3DFVFCAPS_PSIZE supported.
+D3DCAPS2_CANAUTOGENMIPMAP supported.
+D3DPRASTERCAPS_DITHER supported.
+Max Point Size:	8192
+Max Primitive Count:	16777215
+Max Active Lights:	8
+Max User Clip Planes:	8
+Max Vertex Index:	16777215
+Max Vertex Shader Const:	256

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grid To Mesh Demo", "Grid To Mesh Demo\Grid To Mesh Demo.vcxproj", "{546C9C65-F573-45D1-8B55-5D6569E44622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546C9C65-F573-45D1-8B55-5D6569E44622}.Debug|Win32.ActiveCfg = Debug|Win32
+		{546C9C65-F573-45D1-8B55-5D6569E44622}.Debug|Win32.Build.0 = Debug|Win32
+		{546C9C65-F573-45D1-8B55-5D6569E44622}.Release|Win32.ActiveCfg = Release|Win32
+		{546C9C65-F573-45D1-8B55-5D6569E44622}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
